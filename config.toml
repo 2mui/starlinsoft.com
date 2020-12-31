@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "/"
-title = "二木软件"
+title = "星林信息"
 theme = "airspace-hugo"
 # post pagination
 paginate = "4"
@@ -85,13 +85,13 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
-logo_width = "120px"
+logo_width = "100px"
 # Meta data
 description = ""
-author = "Ermu"
+author = "Starlin"
 # Contact Information
-phone = "18671744221"
-email = "ermu@2mui.com"
+phone = "18186602004"
+email = "345009533@qq.com"
 location = "武汉市东湖新技术开发区武大科技园豪迈大厦1栋106"
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io

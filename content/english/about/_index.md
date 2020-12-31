@@ -1,5 +1,5 @@
 ---
-title: "关于二木软件"
+title: "关于星林信息"
 description: ""
 draft: false
 bg_image: "images/featue-bg.jpg"

@@ -13,9 +13,9 @@ banner:
 ############################# About #################################
 about:
   enable : true
-  title : "关于二木软件"
+  title : "关于星林信息"
   description : ""
-  content : "武汉二木软件技术有限公司 Wuhan Ermu Software Technology Co., Ltd  简称二木软件（Ermu software）, 是一个具有鲜明技术特色的高新技术企业，我们的企业由一支富有活力与激情的队伍组成，公司秉承诚信营商，服务至上的理念，立志为全球客户提供全面的软件开发、测试、维护和认证等专业服务。"
+  content : "武汉星林信息技术有限公司 Wuhan Starlin Software Technology Co., Ltd  简称星林信息（Starlin）, 是一个具有鲜明技术特色的高新技术企业，我们的企业由一支富有活力与激情的队伍组成，公司秉承诚信营商，服务至上的理念，立志为全球客户提供全面的软件开发、测试、维护和认证等专业服务。"
   image : "images/wrapper-img.png"
 
 
@@ -25,13 +25,13 @@ portfolio:
   bg_image : "images/featue-bg.jpg"
   title : "创新是企业最大的竞争力"
   content : "
-二木软件主要服务领域为金融、电信、电力、钢铁、电子商务等，我们的质量保证系统能有效为客户提供从项目咨询设计到实施维护的全面服务.
+星林信息主要服务领域为金融、电信、电力、钢铁、电子商务等，我们的质量保证系统能有效为客户提供从项目咨询设计到实施维护的全面服务.
 
 
-二木软件非常注重具有自主知识产权产品的设计和开发工作，在CRM, DRP, ERP, 无线通讯, 嵌入式系统等技术领域都推出了自己的产品，并有着稳定的客户群.
+星林信息非常注重具有自主知识产权产品的设计和开发工作，在CRM, DRP, ERP, 无线通讯, 嵌入式系统等技术领域都推出了自己的产品，并有着稳定的客户群.
 
 
-二木软件为包括IBM、 Microsoft、HP、NOKIA、MOTOROLA、NEC、Oracle、Cisco、SUN、NEC、SONY、Panasonic、华为、方正、联想、宝信等国内外客户提供了专业化服务。二木软件的优质技术服务赢得了客户的信赖.
+星林信息为包括IBM、 Microsoft、HP、NOKIA、MOTOROLA、NEC、Oracle、Cisco、SUN、NEC、SONY、Panasonic、华为、方正、联想、宝信等国内外客户提供了专业化服务。星林信息的优质技术服务赢得了客户的信赖.
   "
   button:
     enable : true
@@ -59,7 +59,7 @@ cta:
 ############################# Funfacts ###############################
 funfacts:
   enable : true
-  title : "二木软件"
+  title : "星林信息"
   description : "专注于移动互联网，坚持以技术创新为核心，以用户需求为导向，关注用户体验，市场发展方向，<br>努力成为国内领先的移动互联网应用开发服务商，为企业客户提供最专业的移动应用产品的开发支持和解决方案。"
   funfact_item:
     # funfacts item loop

@@ -1,0 +1,80 @@
+################################## About #####################################
+about:
+  enable : true
+  image : "images/company/about.jpg"
+  title : "尽我们所能做的更好  ."
+  content : "<br>
+  
+  
+  
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;武汉市二木软件技术有限公司,简称二木软件（Ermu Software）, 是一个具有鲜明技术特色的高新技术企业，我们的企业由一支富有活力与激情的队伍组成，公司秉承“诚信营商，服务至上”的经营理念，竭诚为广大客户服务。
+          
+          
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二木软件主为电力、金融、通信、物联网、钢铁等行业提供CRM、 DRP、ERP、无线通讯等系统研发、实施服务人员。"
+
+  button:
+    enable : false
+    label : "Download Company Profile"
+    link : "#"
+
+  funfacts:
+    # funfacts loop
+    - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "成功案例"
+      count : "349"
+      
+    # funfacts loop
+    - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "代码行"
+      count : "35000"
+      
+    # funfacts loop
+    - icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "满意客户"
+      count : "70"
+      
+      
+    # funfacts loop
+    - icon : "ion-ios-body-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "获奖者"
+      count : "20"
+      
+
+
+#################################### testimonial & mission vision #######################################
+testimonial:
+  enable : true
+  # testimonial content comes from "data/*/homepage.yml" file
+
+mission_vision:
+  enable : true
+  tabs:
+    # tab item loop
+    - name : "愿景"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
+      harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
+      quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
+      voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
+      iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
+      suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
+      illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
+      temporibus eos sequi alias hic nemo."
+      
+    # tab item loop
+    - name : "使命"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
+      harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
+      quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
+      voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
+      iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
+      suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
+      illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
+      temporibus eos sequi alias hic nemo."
+      
+
+
+
+############################# call to action #################################
+cta:
+  enable : true
+  # call to action content comes from "data/*/homepage.yml"
